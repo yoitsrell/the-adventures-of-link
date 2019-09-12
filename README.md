@@ -1,12 +1,12 @@
-# The Adventures of Link
-### ("HTMLda II"?!)
+# HTML II
+### The Adventures of Link
 
 ---
 
 ### Project Skills
 
 * Creating files from the command line.
-* Linking html pages using anchor (`<a>`) tags.
+* Linking html pages together using anchor (`<a>`) tags.
 
 
 ### Introduction
@@ -30,7 +30,7 @@ Each page after the first one will:
 * have some "main text" that describes what happens once the user takes the action that got them there;
 * have at least one link (but preferably more!) that describes a possible action;
 * have a link that leads back to the first page;
-* and have a link _that opens a new window/tab_ and leads to the github repo for the app.
+* and have a link _that opens a new window/tab_ and leads to the github repo for your app.
 
 
 ### Content
