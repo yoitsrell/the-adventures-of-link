@@ -44,3 +44,6 @@ Some content guidelines:
 * We don't know what the letter is yet, what it says, or who wrote it. But we can be imaginative with other questions too. Where is the library? What kind of library is it? What is the main character _doing_ in the library? Who even _is_ the main character? Have fun with this!
 
 Good luck!
+
+
+<a href="https://github.com/yoitsrell/the-adventures-of-link/blob/master/index.html">Enter Story</a>
